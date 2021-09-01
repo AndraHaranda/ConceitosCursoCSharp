@@ -1,0 +1,13 @@
+C:\Users\andra\source\repos\Aula3\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.exe
+C:\Users\andra\source\repos\Aula3\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.deps.json
+C:\Users\andra\source\repos\Aula3\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.runtimeconfig.json
+C:\Users\andra\source\repos\Aula3\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.runtimeconfig.dev.json
+C:\Users\andra\source\repos\Aula3\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.dll
+C:\Users\andra\source\repos\Aula3\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.pdb
+C:\Users\andra\source\repos\Aula3\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.csprojAssemblyReference.cache
+C:\Users\andra\source\repos\Aula3\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.AssemblyInfoInputs.cache
+C:\Users\andra\source\repos\Aula3\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.AssemblyInfo.cs
+C:\Users\andra\source\repos\Aula3\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.csproj.CoreCompileInputs.cache
+C:\Users\andra\source\repos\Aula3\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.dll
+C:\Users\andra\source\repos\Aula3\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.pdb
+C:\Users\andra\source\repos\Aula3\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.genruntimeconfig.cache

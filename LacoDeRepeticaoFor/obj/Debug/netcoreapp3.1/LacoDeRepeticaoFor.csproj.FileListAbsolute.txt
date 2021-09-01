@@ -1,0 +1,12 @@
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.AssemblyInfo.cs
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.exe
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.deps.json
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.runtimeconfig.json
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.runtimeconfig.dev.json
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.dll
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\bin\Debug\netcoreapp3.1\LacoDeRepeticaoFor.pdb
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.dll
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.pdb
+C:\Users\andra\source\repos\Aula3\LacoDeRepeticaoFor\obj\Debug\netcoreapp3.1\LacoDeRepeticaoFor.genruntimeconfig.cache

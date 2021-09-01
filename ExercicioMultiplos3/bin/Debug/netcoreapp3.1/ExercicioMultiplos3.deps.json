@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExercicioMultiplos3/1.0.0": {
+        "runtime": {
+          "ExercicioMultiplos3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioMultiplos3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

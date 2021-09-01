@@ -1,0 +1,12 @@
+C:\Users\andra\source\repos\Aula3\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+C:\Users\andra\source\repos\Aula3\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+C:\Users\andra\source\repos\Aula3\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+C:\Users\andra\source\repos\Aula3\While\bin\Debug\netcoreapp3.1\While.exe
+C:\Users\andra\source\repos\Aula3\While\bin\Debug\netcoreapp3.1\While.deps.json
+C:\Users\andra\source\repos\Aula3\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+C:\Users\andra\source\repos\Aula3\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+C:\Users\andra\source\repos\Aula3\While\bin\Debug\netcoreapp3.1\While.dll
+C:\Users\andra\source\repos\Aula3\While\bin\Debug\netcoreapp3.1\While.pdb
+C:\Users\andra\source\repos\Aula3\While\obj\Debug\netcoreapp3.1\While.dll
+C:\Users\andra\source\repos\Aula3\While\obj\Debug\netcoreapp3.1\While.pdb
+C:\Users\andra\source\repos\Aula3\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache

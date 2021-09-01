@@ -1,0 +1,12 @@
+C:\Users\andra\source\repos\Aula3\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.exe
+C:\Users\andra\source\repos\Aula3\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.deps.json
+C:\Users\andra\source\repos\Aula3\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.runtimeconfig.json
+C:\Users\andra\source\repos\Aula3\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.runtimeconfig.dev.json
+C:\Users\andra\source\repos\Aula3\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.dll
+C:\Users\andra\source\repos\Aula3\ForEncadeado\bin\Debug\netcoreapp3.1\ForEncadeado.pdb
+C:\Users\andra\source\repos\Aula3\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.AssemblyInfoInputs.cache
+C:\Users\andra\source\repos\Aula3\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.AssemblyInfo.cs
+C:\Users\andra\source\repos\Aula3\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\andra\source\repos\Aula3\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.dll
+C:\Users\andra\source\repos\Aula3\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.pdb
+C:\Users\andra\source\repos\Aula3\ForEncadeado\obj\Debug\netcoreapp3.1\ForEncadeado.genruntimeconfig.cache

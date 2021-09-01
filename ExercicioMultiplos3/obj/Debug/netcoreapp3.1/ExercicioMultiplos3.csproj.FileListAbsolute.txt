@@ -1,0 +1,13 @@
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\bin\Debug\netcoreapp3.1\ExercicioMultiplos3.exe
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\bin\Debug\netcoreapp3.1\ExercicioMultiplos3.deps.json
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\bin\Debug\netcoreapp3.1\ExercicioMultiplos3.runtimeconfig.json
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\bin\Debug\netcoreapp3.1\ExercicioMultiplos3.runtimeconfig.dev.json
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\bin\Debug\netcoreapp3.1\ExercicioMultiplos3.dll
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\bin\Debug\netcoreapp3.1\ExercicioMultiplos3.pdb
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\obj\Debug\netcoreapp3.1\ExercicioMultiplos3.csprojAssemblyReference.cache
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\obj\Debug\netcoreapp3.1\ExercicioMultiplos3.AssemblyInfoInputs.cache
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\obj\Debug\netcoreapp3.1\ExercicioMultiplos3.AssemblyInfo.cs
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\obj\Debug\netcoreapp3.1\ExercicioMultiplos3.csproj.CoreCompileInputs.cache
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\obj\Debug\netcoreapp3.1\ExercicioMultiplos3.dll
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\obj\Debug\netcoreapp3.1\ExercicioMultiplos3.pdb
+C:\Users\andra\source\repos\Aula3\ExercicioMultiplos3\obj\Debug\netcoreapp3.1\ExercicioMultiplos3.genruntimeconfig.cache

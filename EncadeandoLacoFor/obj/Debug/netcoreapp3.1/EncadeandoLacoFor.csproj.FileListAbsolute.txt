@@ -1,0 +1,12 @@
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\bin\Debug\netcoreapp3.1\EncadeandoLacoFor.exe
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\bin\Debug\netcoreapp3.1\EncadeandoLacoFor.deps.json
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\bin\Debug\netcoreapp3.1\EncadeandoLacoFor.runtimeconfig.json
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\bin\Debug\netcoreapp3.1\EncadeandoLacoFor.runtimeconfig.dev.json
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\bin\Debug\netcoreapp3.1\EncadeandoLacoFor.dll
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\bin\Debug\netcoreapp3.1\EncadeandoLacoFor.pdb
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\obj\Debug\netcoreapp3.1\EncadeandoLacoFor.AssemblyInfoInputs.cache
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\obj\Debug\netcoreapp3.1\EncadeandoLacoFor.AssemblyInfo.cs
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\obj\Debug\netcoreapp3.1\EncadeandoLacoFor.csproj.CoreCompileInputs.cache
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\obj\Debug\netcoreapp3.1\EncadeandoLacoFor.dll
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\obj\Debug\netcoreapp3.1\EncadeandoLacoFor.pdb
+C:\Users\andra\source\repos\Aula3\EncadeandoLacoFor\obj\Debug\netcoreapp3.1\EncadeandoLacoFor.genruntimeconfig.cache

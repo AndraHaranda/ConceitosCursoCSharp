@@ -1,0 +1,13 @@
+C:\Users\andra\source\repos\Aula3\Escopo\bin\Debug\netcoreapp3.1\Escopo.exe
+C:\Users\andra\source\repos\Aula3\Escopo\bin\Debug\netcoreapp3.1\Escopo.deps.json
+C:\Users\andra\source\repos\Aula3\Escopo\bin\Debug\netcoreapp3.1\Escopo.runtimeconfig.json
+C:\Users\andra\source\repos\Aula3\Escopo\bin\Debug\netcoreapp3.1\Escopo.runtimeconfig.dev.json
+C:\Users\andra\source\repos\Aula3\Escopo\bin\Debug\netcoreapp3.1\Escopo.dll
+C:\Users\andra\source\repos\Aula3\Escopo\bin\Debug\netcoreapp3.1\Escopo.pdb
+C:\Users\andra\source\repos\Aula3\Escopo\obj\Debug\netcoreapp3.1\Escopo.csprojAssemblyReference.cache
+C:\Users\andra\source\repos\Aula3\Escopo\obj\Debug\netcoreapp3.1\Escopo.AssemblyInfoInputs.cache
+C:\Users\andra\source\repos\Aula3\Escopo\obj\Debug\netcoreapp3.1\Escopo.AssemblyInfo.cs
+C:\Users\andra\source\repos\Aula3\Escopo\obj\Debug\netcoreapp3.1\Escopo.csproj.CoreCompileInputs.cache
+C:\Users\andra\source\repos\Aula3\Escopo\obj\Debug\netcoreapp3.1\Escopo.dll
+C:\Users\andra\source\repos\Aula3\Escopo\obj\Debug\netcoreapp3.1\Escopo.pdb
+C:\Users\andra\source\repos\Aula3\Escopo\obj\Debug\netcoreapp3.1\Escopo.genruntimeconfig.cache
